@@ -1,0 +1,14 @@
+
+{
+    "host": "localhost",
+    "PONDERADOR_ENCRIPTACION": 1,
+    "id_1": "Chanchito Regalon",
+    "id_2": "Jimichael Butjordan",
+    "id_3": "Luquitas Neutron",
+    "id_4": "Gorila jugueton",
+    "RUTA_FONDO_INICIO": ["frontend", "Sprites", "background", "background_inicio.png"],
+    "RUTA_FONDO_JUEGO": ["frontend", "Sprites", "background", "background_juego.png"],
+    "RUTA_ICONO": ["frontend", "Sprites", "dices", "dice_6.png"],
+    "RUTA_USER_PROFILE": ["frontend", "Sprites", "extra", "user_profile.png"],
+    "RUTA_DADO_TAPADO": ["frontend", "Sprites", "dices", "dice_logo.png"]
+}

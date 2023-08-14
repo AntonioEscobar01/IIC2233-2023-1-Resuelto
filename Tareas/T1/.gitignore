@@ -1,0 +1,11 @@
+#Archivos ignorar
+__pycache__/
+.vscode
+Enunciado.pdf
+excavadores.csv
+arenas.csv
+consumibles.csv
+tesoros.csv
+diagrama_clases.drawio
+pruebas.py
+DCCavaCava.txt

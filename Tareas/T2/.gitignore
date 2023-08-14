@@ -1,0 +1,7 @@
+frontend/assets/mapas/
+frontend/assets/sounds/
+frontend/assets/sprites/
+__pycache__/
+frontend/__pycache__/
+posiciones.txt
+Enunciado.pdf
