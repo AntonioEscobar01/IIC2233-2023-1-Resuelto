@@ -9,3 +9,4 @@ Pueden generar issues si algo de lo que hice no esta muy claro `(no prometo resp
 Se busca que puedan sacar ideas o ver como seria una solucion correcta de las tareas o actividades :)
 
 
+`Disclaimer`: Todas las tareas no contienen el archivo *gitignore* el cual es muy importante que sepan usar, yo no lo coloque para que se suban todos los elementos de las tareas como fotos, enunciados, mapas, etc.
