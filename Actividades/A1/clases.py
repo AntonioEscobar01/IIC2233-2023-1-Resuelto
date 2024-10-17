@@ -91,3 +91,5 @@ if __name__ == '__main__':
     perro.desplazarse()
     pez.desplazarse()
     ornitorrinco.desplazarse()
+
+    perro.desplazarse() # usando branch
